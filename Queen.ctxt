@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=input
+comment0.target=Queen(boolean)
+comment1.params=input
+comment1.target=void\ setSprite(boolean)
+comment1.text=\r\n\ With\ help\ from\ Henry\r\n
+comment2.params=input
+comment2.target=void\ setBattleSpriteUp(boolean)
+comment3.params=input
+comment3.target=void\ setBattleSpriteDown(boolean)
+comment4.params=other\ defended
+comment4.target=void\ attack(Pieces,\ boolean)
+comment5.params=
+comment5.target=void\ block()
+comment6.params=
+comment6.target=void\ levelUp()
+numComments=7

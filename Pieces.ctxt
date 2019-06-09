@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=levelcost\ health\ attack\ experienceondeath\ type
+comment0.target=Pieces(int,\ int,\ int,\ int,\ boolean)
+comment1.params=
+comment1.target=boolean\ getType()
+comment10.params=
+comment10.target=java.lang.String\ getSpecialAttack()
+comment2.params=other\ defended
+comment2.target=void\ attack(Pieces,\ boolean)
+comment3.params=
+comment3.target=void\ block()
+comment4.params=
+comment4.target=void\ levelUp()
+comment5.params=other
+comment5.target=void\ die(Pieces)
+comment6.params=other
+comment6.target=void\ special(Pieces)
+comment7.params=
+comment7.target=java.awt.Image\ getSprite()
+comment8.params=
+comment8.target=java.awt.Image\ getSpriteUp()
+comment9.params=
+comment9.target=java.awt.Image\ getSpriteDown()
+numComments=11
